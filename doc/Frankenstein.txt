@@ -18,7 +18,8 @@ Release date: October 1, 1993 [eBook #84]
 
 Language: English
 
-Credits: Judith Boss, Christy Phillips, Lynn Hanninen and David Meltzer. HTML version by Al Haines.
+Credits: Judith Boss, Christy Phillips, Lynn Hanninen and David Meltzer.
+        HTML version by Al Haines.
         Further corrections by Menno de Leeuw.
 
 
@@ -7372,7 +7373,7 @@ that which I feel. Blasted as thou wert, my agony was still superior to
 thine, for the bitter sting of remorse will not cease to rankle in my
 wounds until death shall close them for ever.
 
-“But soon,” he cried with sad and solemn enthusiasm, “I
+“But soon,” he criedwith sad and solemn enthusiasm, “I
 shall die, and what I now feel be no longer felt. Soon these burning
 miseries will be extinct. I shall ascend my funeral pile triumphantly and
 exult in the agony of the torturing flames. The light of that conflagration
@@ -7389,7 +7390,7 @@ lost in darkness and distance.
 
 
         
-            *** END OF THE PROJECT GUTENBERG EBOOK FRANKENSTEIN; OR, THE MODERN PROMETHEUS ***
+*** END OF THE PROJECT GUTENBERG EBOOK FRANKENSTEIN; OR, THE MODERN PROMETHEUS ***
         
 
     

@@ -20,7 +20,7 @@ Language: English
 
 
 
-*** START OF THE PROJECT GUTENBERG EBOOK ROMEO AND JULIET ***
+                              *** START OF THE PROJECT GUTENBERG EBOOK ROMEO AND JULIET ***
 
 
 
@@ -5295,7 +5295,7 @@ Than this of Juliet and her Romeo.
 
 
         
-            *** END OF THE PROJECT GUTENBERG EBOOK ROMEO AND JULIET ***
+                              *** END OF THE PROJECT GUTENBERG EBOOK ROMEO AND JULIET ***
         
 
     
