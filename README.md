@@ -14,6 +14,6 @@ two releases: 0.1 and 0.2. You are on the road to 0.3.
 # Rules
 
 A security vulnerability in VulnGame is:
-- a spelling misteke in English (both American and British variants are considered
+- a spelling mistake in English (both American and British variants are considered
   correct)
 - a line length of more than 87 characters (Linux/Unix line breaks), except for links
